@@ -9,12 +9,12 @@ I use them for my current projects. Any other architecture you wanna see, create
 
 
 ## Built Architectures
-- Boost
+- Boost (1.79.0)
 	- macOS (x86_64)
 	- iOS (arm64, armv7, armv7s) | <b>Including -mt (thread-safe) libraries!</b> such as coroutine-mt and thread-mt
 	- Mac-Catalyst (x86_64, arm64)
 
-- OpenSSL
+- OpenSSL (3.0.5)
 	- macOS (x86_64)
 	- iOS (arm64, armv7, armv7s)
 
