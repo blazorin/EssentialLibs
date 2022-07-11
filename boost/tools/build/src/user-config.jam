@@ -1,0 +1,4 @@
+using darwin : iossim : clang++ -arch x86_64 -fembed-bitcode-marker -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk
+: <striper> <root>/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer 
+: <architecture>x86 <target-os>iphone 
+;
