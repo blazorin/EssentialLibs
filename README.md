@@ -63,3 +63,7 @@ Please open a issue and explain as most as possible
 #
 ## Cookie?
 If it worked out for you, consider giving a star and following me, for future updates and newer repos!
+
+# Sponsorship
+This project is tested with BrowserStack.
+Test EssentialLibs in your native app, trough their real movile devices!
