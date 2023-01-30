@@ -66,4 +66,4 @@ If it worked out for you, consider giving a star and following me, for future up
 
 # Sponsorship
 This project is tested with [BrowserStack](https://www.browserstack.com/app-live).
-Test EssentialLibs in your native app, trough their real movile devices!
+Test EssentialLibs in your native app, trough their real mobile devices!
